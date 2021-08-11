@@ -174,3 +174,11 @@ a {
         padding-left: 10px;
     }
 }
+
+@media (min-width: 1440px){
+
+    li {
+        margin-right: 300px;
+        margin-left: 300px;
+    }
+}
